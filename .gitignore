@@ -1,5 +1,4 @@
 # Logs
-logs
 *.log
 
 # Runtime data
@@ -23,3 +22,23 @@ build/Release
 # Deployed apps should consider commenting this line out:
 # see https://npmjs.org/doc/faq.html#Should-I-check-my-node_modules-folder-into-git
 node_modules
+
+#OS/IDEs/Editors
+*~
+*#
+.DS_STORE
+.DS_Store?
+.idea
+.node_history
+[Tt]humbs.db
+._*
+.Trashes
+ehthumbs.db
+*.swp
+*.swo
+*.swn
+
+#Node
+*.out
+.lock-wscript
+.sass-cache
