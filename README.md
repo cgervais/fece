@@ -3,7 +3,7 @@ Front-end coding exercise
 
 ### Instructions
 
-* Use the following data to popular a grid/table:
+* Use the following data to populate a grid/table:
 
 ```
 var people = [
@@ -52,9 +52,9 @@ Active | Name               | Age | Email                        | (controls)
 [E] can be an icon that represents editing, and [D] can be an icon that represents deleting
 
 * The functionality should be as follows:
-- The data in the grid should always reflect the data that is in the people array.  It should never be out of sync.
-- When you click the [New person] button a blank row will appear as the first item in the table/grid.  Instead of an [E] button it will be a [S] save button (find an icon).
-- When you edit a row, the [E] icon will be replaced with an [S] icon to allow you to save/sublit the new person.
-- If you click the [D] button on any row, it will be removed from both the display and the people array.
+. The data in the grid should always reflect the data that is in the people array.  It should never be out of sync.
+. When you click the [New person] button a blank row will appear as the first item in the table/grid.  Instead of an [E] button it will be a [S] save button (find an icon).
+. When you edit a row, the [E] icon will be replaced with an [S] icon to allow you to save/sublit the new person.
+. If you click the [D] button on any row, it will be removed from both the display and the people array.
 
-4. Use Bootstrap, and any JavaScript libraries you feel comfortable with (bonus for using AngularJS).  We are looking for ease of maintenance, clean code, and a preference in using the right libraries for the right task.
+* Use Bootstrap, and any JavaScript libraries you feel comfortable with (bonus for using AngularJS).  We are looking for ease of maintenance, clean code, and a preference in using the right libraries for the right task.
